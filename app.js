@@ -102,8 +102,5 @@ function newGame() {
 	tried = 1
 	initialMessage()
 	document.querySelector('#reiniciar').setAttribute('disabled', true)
-	console.log(listNumberSorted)
 
 }
-
-// console.log(listNumberSorted)
