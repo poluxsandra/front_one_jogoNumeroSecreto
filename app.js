@@ -1,5 +1,5 @@
 let listNumberSorted = []
-let limitRange = 4
+let limitRange = 100
 let secretNumber = generateRandomNumber()
 let tried = 1
 
